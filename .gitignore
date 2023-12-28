@@ -1,0 +1,6 @@
+.vscode
+dist
+node_modules
+.DS_Store
+country-details-1.0.0.tgz
+package
